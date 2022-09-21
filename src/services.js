@@ -1,0 +1,1 @@
+modules.exports.fetchWithTimeout=function(delay){}
